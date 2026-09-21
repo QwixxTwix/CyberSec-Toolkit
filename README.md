@@ -11,7 +11,7 @@
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝
 ```
 
-<img width="1919" height="1079" alt="CyberSec Toolkit" src="https://github.com/user-attachments/assets/3bee9317-030a-4246-b906-563dba1b03a0" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/e5d5bb24-b426-4919-9606-d987aa9f8939" />
 
 **Модульный пентест-тулкит для этичного хакинга, bug bounty, red team и CTF.**
 
