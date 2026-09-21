@@ -1,0 +1,72 @@
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ─── Virtual env ───
+.venv/
+venv/
+env/
+ENV/
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── .env (ключи — НЕ коммитить!) ───
+.env
+
+# ─── БД и логи ───
+*.db
+*.db-journal
+logs/*.log
+logs/*.log.*
+
+# ─── Отчёты (личные) ───
+reports/*
+!reports/.gitkeep
+
+# ─── Словари (кроме базовых) ───
+wordlists/*.txt
+!wordlists/subdomains.txt
+!wordlists/dirs.txt
+!wordlists/rockyou-mini.txt
+
+# ─── Vault и CA ───
+vault.enc
+vault.enc.bak
+.cyber_toolkit/
+
+# ─── Proxy rules / Bot users / Scheduler ───
+proxy_rules.json
+bot_users.json
+schedule.yaml.bak
+
+# ─── Playwright ───
+playwright-report/
+test-results/
+
+# ─── Tests ───
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ─── Misc ───
+*.bak
+*.tmp
+*.orig
+nohup.out
