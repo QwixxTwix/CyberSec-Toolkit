@@ -10,6 +10,8 @@
                              T O O L K I T
 ```
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3bee9317-030a-4246-b906-563dba1b03a0" />
+
 **Модульный пентест-тулкит для этичного хакинга, bug bounty и CTF.**
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://python.org)
