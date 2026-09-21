@@ -1,0 +1,20 @@
+# Планировщик задач CyberSec Toolkit.
+# Каждая задача — словарь:
+#   action:         одно из ACTIONS в modules/scheduler.py
+#   arg:            домен/URL/IP
+#   every_minutes:  интервал в минутах
+#   last_run:       заполняется автоматически
+#
+# Пример (раскомментируй и поменяй под себя):
+#
+# jobs:
+#   - action: dns
+#     arg: example.com
+#     every_minutes: 60
+#     last_run: null
+#   - action: headers
+#     arg: https://example.com
+#     every_minutes: 30
+#     last_run: null
+
+jobs: []
